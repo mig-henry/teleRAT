@@ -2,7 +2,7 @@ import json, requests
 # will setup bot commands so you don't have to manually do so
 
 # enter api token here
-apiToken = "API-token"
+apiToken = 7283070915:AAFzxQuNFUWhvVNQRj7HC5hsUksfbuMumuQ
 
 
 cmds = {
